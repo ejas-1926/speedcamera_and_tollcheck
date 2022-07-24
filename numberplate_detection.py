@@ -1,4 +1,4 @@
-# ProjectGurukul Number plate recognition
+#this project is for finding the number plates of vehicles which exceeds the speed limit
 # import necessary packages
 
 import cv2
